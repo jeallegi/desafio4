@@ -38,7 +38,7 @@ Algoritmo sin_titulo
 	
 	mostrar "El monto del cambio es " billetes - monto_total "$"
 	mostrar "En Bs es " (billetes - monto_total) * tasa_cambio
-	
+	//cambios hecho en el codigo fuente del desafio 4 de git, Jesus Leal - 30560268
 	
 FinAlgoritmo
 
